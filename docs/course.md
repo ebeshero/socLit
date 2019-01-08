@@ -43,7 +43,7 @@ Your course grade will be based on Participation and Quizzes (10%), Digital Proj
 
 **Grading Scale for Projects and Exams**: A: 93-100%, A-: 90-92%, B+: 87-89%, B: 83-86%, B-: 80-82%, C+: 77-79%, C: 73-76%, C-: 70-72%, D+: 67-69%, D: 60-66%, F: 59% and below
 
-###Class Policies and Guidelines
+### Class Policies and Guidelines
 * **Classes and Readings**:  This class is fast paced with challenging reading and regular in-class activities. To do well in this course it is vital that you attend class regularly and keep up with the readings! Read all the material assigned before class on the day it is scheduled so that you can discuss the material in class, raise questions about it, and intelligently respond to my questions and comments. Stay alert for any changes to the class schedule, which I will announce in class and online on Courseweb and e-mail. 
 
 * **Classroom Courtesy**: Please take this classroom space and time seriously as a forum for expression, contemplation, and experimentation. Arriving late and leaving early disrupts the important collective mental activity of class. So does in-class texting and checking your cell phone. While class is in progress, talking disruptively, leaving the classroom, texting or using a cell phone or computer, reading a newspaper, or other distracting behavior will be actively discouraged, and may result in a deduction in your Participation grade. Please respect what we do in the classroom: attend class regularly, and come prepared to contribute your ideas.  
