@@ -5,9 +5,12 @@ Spring 2019 @ [Pitt-Greensburg](http://greensburg.pitt.edu) Class meets face-to-
 
 ### Taught by: 
 Elisa Beshero-Bondar
-Associate Professor of English and Director, [Center for the Digital Text @ Pitt-Greensburg](https://www.greensburg.pitt.edu/digital-humanities/center-digital-text)
-Office: FOB 204; Office hours: W 3-5pm, H 4-5:30pm, and by appointment
-E-mail: ebb8 at pitt.edu
+* Associate Professor of English and Director, [Center for the Digital Text @ Pitt-Greensburg](https://www.greensburg.pitt.edu/digital-humanities/center-digital-text)
+* Office: FOB 204; Office hours: W 3-5pm, H 4-5:30pm, and by appointment
+* E-mail: ebb8 at pitt.edu
+
+### [Schedule of readings and assignments](index.md)
+
 
 ### Course Description
 This course explores how history and literature intersect, and how literature reflects on social issues. We will be reading autobiographical narratives, plays, and novels published in the past two centuries. Like a time capsule, each reading offers us a distinct perspective on a community changing under particular pressures over a span of historic and generational time. These texts are designed to look backwards from the time when they were published, to immerse readers in earlier time and place, and to project a sense of “living memory” in a way that is related to the narrative work of history and ethnography.  Our readings—both fictional and nonfictional—investigate how inequality, prejudice, deprivation, and addiction transform communities and individuals, and make people acutely conscious of racial, ethnic, and class differences. Working with digital tools throughout this course, we will investigate how these readings place individual characters in family and community contexts in ways that bring large-scale social forces into perspective. 
