@@ -6,9 +6,10 @@ Class number: 31365 Class meets TH 2:30-3:45pm, 137 McKenna Hall
 * Complete all assigned readings before the class period on which they are listed.
 * Be alert for changes to this schedule, to be announced in class and posted here and on Courseweb.
 
-Week 1:
-T 1/8 First Day: Intro to course. Set up Google accounts and Google Sheets. 
-H 1/10 Octavia Butler, *Parable of the Sower*, Chs. 1 – 4 (to p. 46)
+| Week 1: |
+ --------- 
+| T 1/8 | First Day: Intro to course. Set up Google accounts and Google Sheets. | 
+| H 1/10 | Octavia Butler, *Parable of the Sower*, Chs. 1 – 4 (to p. 46) |
 
 Week 2:
 T 1/15 *Parable of the Sower*, through Ch. 9 (to p. 99)
