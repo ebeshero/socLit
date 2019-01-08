@@ -81,5 +81,5 @@ Spring Break: 3/10 – 3/17
 | T 4/16 | Finish *Maus* Book II |
 | H 4/18 | Last Day; **Digital Project 5** |
 
-Final Exam (TBA])
+| **Final Exam** | (TBA) |
 
