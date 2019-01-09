@@ -1,4 +1,3 @@
-# Introduction to Social Literature
 Welcome to the course site for Introduction to Social Literature, taught by Elisa Beshero-Bondar, working with students at [Pitt-Greensburg](http://greensburg.pitt.edu). These pages will include the [course description](course.md) and schedule (below), as well as projects developed in digital workstations (coming soon).
 
 Class number: 31365 Class meets TH 2:30-3:45pm, 137 McKenna Hall
