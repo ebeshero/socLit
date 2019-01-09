@@ -1,15 +1,16 @@
 # Introduction to Social Literature
 Spring 2019 @ [Pitt-Greensburg](http://greensburg.pitt.edu) Class meets face-to-face TH 2:30 - 3:45pm in 137 McKenna Hall, Class number: 31365
 <div class="flexBox">
-<div class="syllPicture">
-![Emily Carr, Haida Totems, Cha-atl (1912)](hdatotems.jpg)
-</div>
+<figure>
+<img src="hdatotems.jpg" alt="Emily Carr, Haida Totems, Cha-atl (1912)"/>
+<figcaption>Emily Carr, Haida Totems, Cha-atl (1912)</figcaption>
+</figure>
 <div class="facInfo">
-### Taught by: 
-Elisa Beshero-Bondar
-* Associate Professor of English and Director, [Center for the Digital Text @ Pitt-Greensburg](https://www.greensburg.pitt.edu/digital-humanities/center-digital-text)
-* Office: FOB 204; Spring 2019 Office hours: W 3-5pm, H 4-5:30pm, and by appointment
-* E-mail: ebb8 at pitt.edu
+Taught by: Elisa Beshero-Bondar
+<ul>
+<li>Associate Professor of English and Director, [Center for the Digital Text @ Pitt-Greensburg](https://www.greensburg.pitt.edu/digital-humanities/center-digital-text)</li>
+<li>Office: FOB 204; Spring 2019 Office hours: W 3-5pm, H 4-5:30pm, and by appointment</li>
+<li>E-mail: ebb8 at pitt.edu</li>
 </div>
 </div>
 ### Course Description
