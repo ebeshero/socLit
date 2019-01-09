@@ -3,7 +3,7 @@ a.link-no-style {
 }
 div.flexBox{ display: flex; justify-content: flex-start; flex-direction: row;}
 figure {flex:1}
-div.courseDesc {flex:3}
+div.courseDesc {flex:4}
 table#weekMenu tr td:nth-child(even){background: #f0f5f5;}
 /*  table#team tr td img {max-width:150px; width:15%;}*/
 tr:nth-child(even) {background: #f0f5f5}
