@@ -1,19 +1,8 @@
 # Introduction to Social Literature
-Spring 2019 @ [Pitt-Greensburg](http://greensburg.pitt.edu) Class meets face-to-face TH 2:30 - 3:45pm in 137 McKenna Hall, Class number: 31365
-<div class="flexBox">
-<figure>
-<img src="hdatotems.jpg" alt="Emily Carr, Haida Totems, Cha-atl (1912)"/>
-<figcaption>Emily Carr, Haida Totems, Cha-atl (1912)</figcaption>
-</figure>
-<div class="facInfo">
-Taught by: Elisa Beshero-Bondar
-<ul>
-<li>Associate Professor of English and Director, [Center for the Digital Text @ Pitt-Greensburg](https://www.greensburg.pitt.edu/digital-humanities/center-digital-text)</li>
-<li>Office: FOB 204; Spring 2019 Office hours: W 3-5pm, H 4-5:30pm, and by appointment</li>
-<li>E-mail: ebb8 at pitt.edu</li>
-</ul>
-</div>
-</div>
+Spring 2019 @ [Pitt-Greensburg](http://greensburg.pitt.edu): Class meets face-to-face TH 2:30 - 3:45pm in 137 McKenna Hall, Class number: 31365
+
+{% include facInfo.html %}
+
 ### Course Description
 This course explores how history and literature intersect, and how literature reflects on social issues. We will be reading autobiographical narratives, plays, and novels published in the past two centuries. Like a time capsule, each reading offers us a distinct perspective on a community changing under particular pressures over a span of historic and generational time. These texts are designed to look backwards from the time when they were published, to immerse readers in earlier time and place, and to project a sense of “living memory” in a way that is related to the narrative work of history and ethnography.  Our readings—both fictional and nonfictional—investigate how inequality, prejudice, deprivation, and addiction transform communities and individuals, and make people acutely conscious of racial, ethnic, and class differences. Working with digital tools throughout this course, we will investigate how these readings place individual characters in family and community contexts in ways that bring large-scale social forces into perspective. 
 
@@ -63,6 +52,6 @@ Your course grade will be based on Participation and Quizzes (10%), Digital Proj
 * **E-mail Correspondence**: I frequently send announcements to my classes through Courseweb, which also conveniently forwards them to your pitt.edu e-mail addresses. To make sure you’re receiving my announcements, find out whether your pitt.edu account is active and functioning, and get in the habit of checking your messages daily. If you are forwarding your pitt.edu messages to another account, make sure your forwarding works. All of my announcements will also be posted on the Courseweb announcement page. 
     * Send e-mail to me when you have questions or want to meet with me, but **please identify yourself by name (first and last), and provide a Subject Line** when you do so.  
     
-**Please let us know**: if you have a disability for which you are or may be requesting an accommodation, please contact both your instructor and the Director of Learning Resources Center, Dr. Lou Ann Sears, 240 Millstein Library Building (724) 836-7098, as early as possible in the term. Learning Resources Center will verify your disability and determine reasonable accommodations for this course.   
-     
+**Please let us know**: If you have a disability for which you are or may be requesting an accommodation, please contact both your instructor and the Director of Learning Resources Center, Dr. Lou Ann Sears, 240 Millstein Library Building (724) 836-7098, as early as possible in the term. Learning Resources Center will verify your disability and determine reasonable accommodations for this course.   
+   
 
