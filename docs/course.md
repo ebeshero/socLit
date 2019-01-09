@@ -7,7 +7,7 @@ Taught by: Elisa Beshero-Bondar (“Dr. B”)
 * Associate Professor of English and Director, [Center for the Digital Text @ Pitt-Greensburg](https://www.greensburg.pitt.edu/digital-humanities/center-digital-text)
 * Office: FOB 204; Spring 2019 Office hours: W 3-5pm, H 4-5:30pm, and by appointment
 * E-mail: ebb8 at pitt.edu
-* 
+
 {% include courseDesc.html %}
 
 
