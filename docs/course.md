@@ -1,9 +1,8 @@
 # Introduction to Social Literature
 Spring 2019 @ [Pitt-Greensburg](http://greensburg.pitt.edu): Class meets face-to-face TH 2:30 - 3:45pm in 137 McKenna Hall, Class number: 31365
 
-Taught by: Elisa Beshero-Bondar (“Dr. B”)	
+Taught by: Elisa Beshero-Bondar (“Dr. B”), Associate Professor of English and Director, [Center for the Digital Text @ Pitt-Greensburg](https://www.greensburg.pitt.edu/digital-humanities/center-digital-text)
 
-* Associate Professor of English and Director, [Center for the Digital Text @ Pitt-Greensburg](https://www.greensburg.pitt.edu/digital-humanities/center-digital-text)
 * Office: FOB 204; Spring 2019 Office hours: W 3-5pm, H 4-5:30pm, and by appointment
 * E-mail: ebb8 at pitt.edu
 
