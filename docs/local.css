@@ -6,6 +6,7 @@ table#weekMenu tr td:nth-child(even){background: #f0f5f5;}
 tr:nth-child(even) {background: #f0f5f5}
 .rpad {padding-right:2em;}
 td:first-child, th:first-child {min-width:7em;}
+td:nth-child(even), th:nth-child(even) {min-width:15em;}
 div #credits {padding-top:1.5em;}
 
 @media screen and (min-width: 64em) {
