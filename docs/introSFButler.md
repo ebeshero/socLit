@@ -1,6 +1,9 @@
-## Science fiction 
+## Science fiction and Speculative Fiction
 
-What is science fiction and how is it relevant to social issues?
+![speculative fiction genres](specFicGenres.jpg)
+
+What is [science fiction / speculative fiction]((https://annieneugebauer.com/2014/03/24/what-is-speculative-fiction/))? 
+How is it relevant to social issues?
 
 1. Robert Scholes’s definition of science fiction (1975): 
     * “a fictional exploration of human situations made perceptible by the implications of recent science” 
