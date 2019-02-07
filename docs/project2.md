@@ -27,7 +27,7 @@ Each student will experiment with “versioning” at least one specific sketch.
      * Ucluelet1951.txt
      * Ucluelet1941.txt
 
-Create a free account on [JuxtaCommons.org](http://juxtacommons.org/). Follow Juxta’s instructions (and/or get help from Dr. B) to upload your pair of files into the Commons area, prepare them as “witnesses” (or distinct versions of the same text), and create a comparison set to view. Try the different comparison views to see how much differences there are and notice the kinds of differences you see. The side-by-side view is particularly helpful for our purposes. Share publicly your side-by-side comparison view by clicking the icon that looks like an open hand next the Comparison you created, and copy the direct link. Share your comparison view in the Courseweb Discussion thread set up for Versioning Klee Wyck.
+Create a free account on [JuxtaCommons.org](http://juxtacommons.org/). Follow Juxta’s instructions (and/or get help from Dr. B) to upload your pair of files into the Commons area, prepare them as “witnesses” (or distinct versions of the same text), and create a comparison set to view. Try the different comparison views to see how much differences there are and notice the kinds of differences you see. The side-by-side view is particularly helpful for our purposes. Share publicly your side-by-side comparison view by clicking the icon that looks like an open hand next the Comparison you created, and copy the direct link. Share your comparison view in the Courseweb Discussion thread set up for Versioning Klee Wyck. To help survey a full range of altered sketches, **[here is a page collecting some of your work](versioningKlee.md)** for each sketch.
 
 In a short reflective paper, draw upon your work here to comment specifically about how censorship altered this book. What kinds of passages were removed, what was the effect of removing them on what this book shows us of Carr's experiences or the people she was representing? If you like, comment on current issues with the representation of Carr's artwork from the region she was describing. 
 rner of page 1, but not appearing on later pages, giving the following information:
@@ -55,7 +55,7 @@ Locations may take a little bit of work. Try entering a place name first of all 
 
 Finally, write a short essay reflecting on any patterns you observe in Carr's representations of these locations. Why are these places and the people, animals, or artwork in them particularly memorable? How were they changing? If you discover something interesting about what happened to these places after Carr’s time there, you might discuss that in your paper as well. 
 
-    * Write a heading to your paper on the top left corner of page 1, but not appearing on later pages, giving the following information:
+Write a heading to your paper on the top left corner of page 1, but not appearing on later pages, giving the following information:
         * Your Name
         * This class: Englit 0066
         * Your TimeMapper Link: 
