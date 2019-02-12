@@ -61,4 +61,4 @@ Write a heading to your paper on the top left corner of page 1, but not appearin
         * Your TimeMapper Link: 
         * Your Google Sheets Link: 
         * Date of Submission
-    * Upload your paper on the Assignments tab in [Courseweb](https://courseweb.pitt.edu) by the deadline, 11:59pm on Thursday, February 14.  
+    * Upload your paper on the Assignments tab in [Courseweb](https://courseweb.pitt.edu) by the deadline, 11:59pm on Tuesday, February 19.  
