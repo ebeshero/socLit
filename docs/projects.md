@@ -3,6 +3,8 @@
 Class assignments each involve working with digital tools to visualize patterns in our course readings. 
 
 * [Digital Project 1: Map time and place in Octavia Butler’s *Parable of the Sower*](project1.md)
+    * Time-Maps made by students for this assignment:
+        * [Devin Fine's TimeMapper](http://timemapper.okfnlabs.org/anon/6pfhzf-parable)  
 
 * [Digital Project 2: Versioning or Mapping *Klee Wyck*](project2.md)
 
