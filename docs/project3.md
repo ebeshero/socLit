@@ -1,7 +1,7 @@
 ## Digital Project 3: Network and concept maps of August Wilson’s plays
 
-![Gem City of Bones](gemCityBones.jpg)]
-source: [Orange Curtain Review, Orange County CA October-November 2017 production of *Gem of the Ocean*](http://theorangecurtainrev.com/gem-of-the-ocean-south-coast-repertory-in-costa-mesa-review/)
+![Gem City of Bones](gemCityBones.jpg)
+Source: [Orange Curtain Review, Orange County CA October-November 2017 production of *Gem of the Ocean*](http://theorangecurtainrev.com/gem-of-the-ocean-south-coast-repertory-in-costa-mesa-review/)
 
 This digital project involves creating concept and network maps to help visualize patterns in August Wilson’s plays, *Gem of the Ocean* and *Radio Golf*. We will work with Google Sheets again, but in a new way, to organize information about related concepts and map it with [Kumu’s free visualization platform](https://kumu.io/). We will get started by [setting up accounts following Kumu’s documentation](https://docs.kumu.io/getting-started/first-steps.html), and we will be exploring how to structure and import data from a published Google Sheet following [Kumu’s documentation](https://docs.kumu.io/guides/import.html). The first challenge for us will be determining what kinds of patterns we are interested in visualizing. Each student records and visualizes pattern individually, choosing options, such as:
 
