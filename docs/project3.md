@@ -12,7 +12,8 @@ This digital project involves creating concept and network maps to help visualiz
 * characters who share identities and community personas
 
 
-Phase 1: In class we will start with some planning exercises to set up the columns in Google Sheets and experiment with visualizations.
+### Phase 1: 
+In class we will start with some planning exercises to set up the columns in Google Sheets and experiment with visualizations.
 
 The Google Sheet will have two tabs, one for Elements and one for Connections. Elements provide basic information on each node you want to map, such as, for Aunt Ester, that she is a person seen on stage, that she is a spiritual leader, and (if you wish) has an image. The Connections sheet records connections Aunt Ester has with others. The visualization can indicate whether she made or received those connections (to give the association a *direction* from agent to recipient), or whether the connection is simply mutual or shared. 
 
