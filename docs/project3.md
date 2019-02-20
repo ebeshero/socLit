@@ -14,4 +14,12 @@ This digital project involves creating concept and network maps to help visualiz
 
 Phase 1: In class we will start with some planning exercises to set up the columns in Google Sheets and experiment with visualizations.
 
+The Google Sheet will have two tabs, one for Elements and one for Connections. Elements provide basic information on each node you want to map, such as, for Aunt Ester, that she is a person seen on stage, that she is a spiritual leader, and (if you wish) has an image. The Connections sheet records connections Aunt Ester has with others. The visualization can indicate whether she made or received those connections (to give the association a *direction* from agent to recipient), or whether the connection is simply mutual or shared. 
+
+Begin setting it up following my [starter template file](https://docs.google.com/spreadsheets/d/1i-4uVGx8SCdELPQIkLW9d3PVmj8BcJcrvnPzxLsIPH4/edit?usp=sharing).
+
+To help give you an idea of how you can build “maps” or networks with the date you are collecting, here are some sample files:
+* [a sample Google Sheet](https://docs.google.com/spreadsheets/d/1W72Vx7JVN0GysZ1x0tHR5Z5ULHBYCvnqkZzjnF7i0I0/edit?usp=sharing) that I began with a set of data on people and objects on and offstage in the play.
+* Here is a [network visualization made with the sheet above](https://kumu.io/ebeshero/dr-bs-august-wilson-experimental-network#augustwilsonstarter)
+
 *Note: Assignment under construction:* This is a new assignment, so we will test the setup beginning in class on Tuesday 2/19 and continue developing the assignment requirements in consultation between the professor and students. There will be an essay calling for observation of patterns and reflection on the visualizations we develop and what they show us about issues and concepts and the representation of Pittsburgh’s communities in August Wilson’s plays. I will post more as we work out the details.  
