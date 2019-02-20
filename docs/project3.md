@@ -9,7 +9,8 @@ This digital project involves creating concept and network maps to help visualiz
 * material objects and which characters are connected with them
 * symbolic concepts and material objects in the plays
     * for example: diagram the journey to the City of Bones 
-* characters who share identities and community personas
+* Mythic shared identities, with the individuals who share those identities, perhaps with material objects they are associated with
+* Historical events and people outside the text who relate to or connect with events in the play
 
 
 ### Phase 1: 
