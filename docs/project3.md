@@ -24,4 +24,7 @@ To help give you an idea of how you can build “maps” or networks with the da
 * [a sample Google Sheet](https://docs.google.com/spreadsheets/d/1W72Vx7JVN0GysZ1x0tHR5Z5ULHBYCvnqkZzjnF7i0I0/edit?usp=sharing) that I began with a set of data on people and objects on and offstage in the play.
 * Here is a [network visualization made with the sheet above](https://kumu.io/ebeshero/dr-bs-august-wilson-experimental-network#augustwilsonstarter)
 
+### Class directory of links:
+Please record <a href="https://docs.google.com/document/d/1VUYv9wUKrObej-rgQOHUkAAnH2BKQYTIa54CSFA4rtU/edit?usp=sharing">links to your Google Sheets and visualization files here</a>.
+
 *Note: Assignment under construction:* This is a new assignment, so we will test the setup beginning in class on Tuesday 2/19 and continue developing the assignment requirements in consultation between the professor and students. There will be an essay calling for observation of patterns and reflection on the visualizations we develop and what they show us about issues and concepts and the representation of Pittsburgh’s communities in August Wilson’s plays. I will post more as we work out the details.  
