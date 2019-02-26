@@ -25,6 +25,33 @@ To help give you an idea of how you can build “maps” or networks with the da
 * Here is a [network visualization made with the sheet above](https://kumu.io/ebeshero/dr-bs-august-wilson-experimental-network#augustwilsonstarter)
 
 ### Class directory of links:
-Please record <a href="https://docs.google.com/document/d/1VUYv9wUKrObej-rgQOHUkAAnH2BKQYTIa54CSFA4rtU/edit?usp=sharing">links to your Google Sheets and visualization files here</a>.
+Please record <a href="https://docs.google.com/document/d/1VUYv9wUKrObej-rgQOHUkAAnH2BKQYTIa54CSFA4rtU/edit?usp=sharing">links to your Google Sheets and visualization files here</a>. This page (below the directory) also contains detailed advice and codeblocks for customizing your network visualization in Kumu.
 
-*Note: Assignment under construction:* This is a new assignment, so we will test the setup beginning in class on Tuesday 2/19 and continue developing the assignment requirements in consultation between the professor and students. There will be an essay calling for observation of patterns and reflection on the visualizations we develop and what they show us about issues and concepts and the representation of Pittsburgh’s communities in August Wilson’s plays. I will post more as we work out the details.  
+### Phase 2: Building networks from plays
+Once you have worked out how to organize data into columns and customize displays of of your network, work on designing:
+
+* *at least one* complete and thorough network of a collection of relationships interesting to you to represent the complete play, *Gem of the Ocean*. 
+* *at least one* complete and thorough network of a *related* collection of relationships (re-using at least some of your types and tags) to represent the complete play, *Radio Golf*.    
+
+Your networks should be developed from Elements with a coherently organized set of Types and Tags, and you should provide images and descriptions for at least the most important nodes. Elements can be anything you find significant: characters (on or offstage), objects on stage, events, locations, shared identities, etc. 
+
+You do not have to plot out every kind of relationship imaginable, but choose to follow specific patterns and try to do so completely by finding *everything* of a kind. (If you are going to comment on character’s connected to stage objects, look at all the stage directions as well as dialogue and make sure you are capturing every object as it changes hands.) 
+
+Choose the words you use for the Type and Tags columns with care to help you make an easily readable visualization. It’s best if the categorical words you apply for Types and Tags are reusable at least once. Run the Social Network Analysis function in Kumu to generate metrics to use in sizing your nodes and weighting your connections. 
+
+### Phase 3: Analysis and Reflection: Essay
+Study the networks you have made for these plays, and note patterns that look significant in the relationships you have graphed. What aspects of the plays stand out to you as you survey the networks you have charted? Does *Radio Golf* mostly resemble *Gem of the Ocean* in the kinds of relationships we see, or can we see some clear and interesting differences between the two plays in studying them? Use your graphs to direct you back to passages of interest in each play that help to highlight something important about the social network in each play. You might concentrate on patterns that highlight tension and conflict, and whether these are associated with particularly meaningful objects. Take your paper beyond the graphs you've created to help you discuss the contents of the plays. 
+
+Write a heading to your paper on the top left corner of page 1, but not appearing on later pages, giving the following information:
+
+* Your Name
+* This class: Englit 0066
+* *Gem of the Ocean* links:
+  * Kumu link
+  * Google Sheets
+* *Radio Golf* links:
+  * Kumu link  
+  * Google Sheets Link: 
+* Date of Submission
+
+Upload your paper with your list of links for Digital Project 3 on the Assignments tab in [Courseweb](https://courseweb.pitt.edu) by the deadline, 11:59pm on Tuesday, March 19.  
