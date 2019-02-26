@@ -47,11 +47,11 @@ Write a heading to your paper on the top left corner of page 1, but not appearin
 * Your Name
 * This class: Englit 0066
 * *Gem of the Ocean* links:
-  * Kumu link
+  * Kumu graph
   * Google Sheets
 * *Radio Golf* links:
-  * Kumu link  
-  * Google Sheets Link: 
+  * Kumu graph  
+  * Google Sheets 
 * Date of Submission
 
 Upload your paper with your list of links for Digital Project 3 on the Assignments tab in [Courseweb](https://courseweb.pitt.edu) by the deadline, 11:59pm on Tuesday, March 19.  
