@@ -30,8 +30,8 @@ Please record <a href="https://docs.google.com/document/d/1VUYv9wUKrObej-rgQOHUk
 ### Phase 2: Building networks from plays
 Once you have worked out how to organize data into columns and customize displays of of your network, work on designing:
 
-* *at least one* complete and thorough network of a collection of relationships interesting to you to represent the complete play, *Gem of the Ocean*. 
-* *at least one* complete and thorough network of a *related* collection of relationships (re-using at least some of your types and tags) to represent the complete play, *Radio Golf*.    
+* *at least one* complete and thorough network of elements and connections to represent the complete play, *Gem of the Ocean*. 
+* *at least one* complete and thorough network of a *related* network of elements and connections (re-using at least some of your types and tags) to represent the complete play, *Radio Golf*.    
 
 Your networks should be developed from Elements with a coherently organized set of Types and Tags, and you should provide images and descriptions for at least the most important nodes. Elements can be anything you find significant: characters (on or offstage), objects on stage, events, locations, shared identities, etc. 
 
