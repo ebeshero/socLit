@@ -22,7 +22,7 @@ Begin setting it up following my [starter template file](https://docs.google.com
 
 To help give you an idea of how you can build “maps” or networks with the date you are collecting, here are some sample files:
 * [a sample Google Sheet](https://docs.google.com/spreadsheets/d/1W72Vx7JVN0GysZ1x0tHR5Z5ULHBYCvnqkZzjnF7i0I0/edit?usp=sharing) that I began with a set of data on people and objects on and offstage in the play.
-* Here is a [network visualization made with the sheet above](https://kumu.io/ebeshero/dr-bs-august-wilson-experimental-network#augustwilsonstarter)
+* Here is a [network visualization made with the sheet above](https://kumu.io/ebeshero/dr-bs-august-wilson-experimental-network#augustwilsonstarter).
 
 ### Class directory of links:
 Please record <a href="https://docs.google.com/document/d/1VUYv9wUKrObej-rgQOHUkAAnH2BKQYTIa54CSFA4rtU/edit?usp=sharing">links to your Google Sheets and visualization files here</a>. This page (below the directory) also contains detailed advice and codeblocks for customizing your network visualization in Kumu.
