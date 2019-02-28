@@ -1,11 +1,11 @@
 ## Take-home Midterm Exam
 
 ### Instructions: 
-Choose **three** of the following four prompts to develop into essays. Copy and paste the essay prompts into a document, and write up your response below the question. You may find it beneficial to quickly outline your response and make yourself a list of supporting details to include to help you structure your essay. Because these are compare and contrast questions, I will expect to see some reflection in your concluding paragraphs to explain what makes the readings similar or different. I will evaluate your essays based on the relevance, accuracy, and detail with which you present supporting evidence, as well as your reflection on the readings. Take time to think through these responses to develop your ideas.
+Choose **three** of the following four prompts to develop into essays. Copy and paste the essay prompts into a document, and write up your response below the question. You may find it beneficial to quickly outline your response and make yourself a list of supporting details to include to help you structure your essay. Because these are compare and contrast questions, I will expect to see some reflection in your concluding paragraphs to explain what makes the readings similar or different. I will evaluate your essays based on the relevance, accuracy, and detail with which you present supporting evidence, as well as your reflection on the readings. Take time to think through these responses to develop your ideas. Save your work, and upload it to Courseweb by the due date at the designated upload point for the Midterm Exam under Assignments.
 
 Over the course of this exam, to receive full credit you must write about all three texts: *Parable of the Sower*, *Klee Wyck*, and *Gem of the Ocean*. 
 
-**Due by Courseweb upload, by Tues. 3/5 by 11:59pm
+**Due by Courseweb upload, by Tues. 3/5 by 11:59pm**
 
 1. Consider how two of our readings have foregrounded tension with the laws of society in the world of the text. Which readings seem comparable in the way they highlight conflicts over law and order? Discuss, drawing on two or three detailed examples of crises from these texts that seem significantly worth comparing. Then, reflect in your concluding paragraph: How similar are these texts in the way they highlight a problem, present and/or resolve a crisis over law and order?
 
