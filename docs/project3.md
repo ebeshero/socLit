@@ -40,9 +40,9 @@ You do not have to plot out every kind of relationship imaginable, but choose to
 Choose the words you use for the Type and Tags columns with care to help you make an easily readable visualization. It’s best if the categorical words you apply for Types and Tags are reusable at least once. Run the Social Network Analysis function in Kumu to generate metrics to use in sizing your nodes and weighting your connections. 
 
 ### Phase 3: Analysis and Reflection: Essay
-Study the networks you have made for these plays, and note patterns that look significant in the relationships you have graphed. 
+Study the networks you have made for these plays, and note patterns that look significant in the relationships you have graphed. Remember that any visualization is going to filter the readings based on what you decided to plot, but you have been in control of the filtering process. If you have updated or changed your links to your Google Sheets or your Kumu graphs, be sure to update your links on [our Google Sheet directory](https://docs.google.com/document/d/1VUYv9wUKrObej-rgQOHUkAAnH2BKQYTIa54CSFA4rtU/edit?usp=sharing). 
 
-Remember that any visualization is going to filter the readings based on what you decided to plot, but you have been in control of the filtering process. In the opening paragraph of your essay, explain what you chose to represent in your graph and try to assess how completely you have represented what you wanted to show. Explain how you decided to present connections. 
+In the opening paragraph of your essay, explain what you chose to represent in your graph and try to assess how completely you have represented what you wanted to show. Explain how you decided to present connections. 
 
 Now, survey your visualization. (In the process of doing this, you may want to add some nodes and connections to make sure you have been as complete as you can be in what you decided to show about the plays. You may also want to revise the way you are displaying your graph based on network statistics and the advanced editing options, to change the size and shape of your nodes and edge connections.) 
 
