@@ -54,4 +54,4 @@ Write a heading to your paper on the top left corner of page 1, but not appearin
   * Google Sheets 
 * Date of Submission
 
-Upload your paper with your list of links for Digital Project 3 on the Assignments tab in [Courseweb](https://courseweb.pitt.edu) by the deadline, 11:59pm on Tuesday, March 19.  
+Upload your paper with your list of links for Digital Project 3 on the Assignments tab in [Courseweb](https://courseweb.pitt.edu) by the deadline, 11:59pm on Thursday, March 21.  
