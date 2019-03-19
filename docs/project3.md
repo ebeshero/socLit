@@ -5,10 +5,10 @@ Source: [Orange Curtain Review, Orange County CA October-November 2017 productio
 
 This digital project involves creating concept and network maps to help visualize patterns in August Wilson’s plays, *Gem of the Ocean* and *Radio Golf*. We will work with Google Sheets again, but in a new way, to organize information about related concepts and map it with [Kumu’s free visualization platform](https://kumu.io/). We will get started by [setting up free accounts](https://docs.kumu.io/getting-started/first-steps.html), and we will be exploring how to structure and import data from a published Google Sheet following [Kumu’s documentation](https://docs.kumu.io/guides/import.html). The first challenge for us will be determining what kinds of patterns we are interested in visualizing. Each student records and visualizes pattern individually, choosing options, such as:
 
-* social network: who is on stage together in the same scenes, and what locations connect characters?
-* material objects and which characters are connected with them
-* symbolic concepts and material objects in the plays
-    * for example: diagram the journey to the City of Bones 
+* Social network: Who is on stage together in the same scenes, and what locations connect characters?
+* Material objects and which characters are connected with them
+* Symbolic concepts and material objects in the plays
+    * For example: plot nodes and connections to diagram the journey to the City of Bones. 
 * Mythic shared identities, with the individuals who share those identities, perhaps with material objects they are associated with
 * Historical events and people outside the text who relate to or connect with events in the play
 
@@ -40,7 +40,22 @@ You do not have to plot out every kind of relationship imaginable, but choose to
 Choose the words you use for the Type and Tags columns with care to help you make an easily readable visualization. It’s best if the categorical words you apply for Types and Tags are reusable at least once. Run the Social Network Analysis function in Kumu to generate metrics to use in sizing your nodes and weighting your connections. 
 
 ### Phase 3: Analysis and Reflection: Essay
-Study the networks you have made for these plays, and note patterns that look significant in the relationships you have graphed. What aspects of the plays stand out to you as you survey the networks you have charted? Does *Radio Golf* mostly resemble *Gem of the Ocean* in the kinds of relationships we see, or can we see some clear and interesting differences between the two plays in studying them? Use your graphs to direct you back to passages of interest in each play that help to highlight something important about the social network in each play. You might concentrate on patterns that highlight tension and conflict, and whether these are associated with particularly meaningful objects. Take your paper beyond the graphs you've created to help you discuss the contents of the plays. 
+Study the networks you have made for these plays, and note patterns that look significant in the relationships you have graphed. 
+
+Remember that any visualization is going to filter the readings based on what you decided to plot, but you have been in control of the filtering process. In the opening paragraph of your essay, explain what you chose to represent in your graph and try to assess how completely you have represented what you wanted to show. Explain how you decided to present connections. 
+
+Now, survey your visualization. (In the process of doing this, you may want to add some nodes and connections to make sure you have been as complete as you can be in what you decided to show about the plays. You may also want to revise the way you are displaying your graph based on network statistics and the advanced editing options, to change the size and shape of your nodes and edge connections.) 
+
+When you are happy with your data and your visualizations, think about what aspects of the pair of plays stand out to you from reviewing your visualizations.  Make these aspects serve as the foundation of your essay. Describe at the end of your first paragraph or the beginning of your second paragraph what clusters or patterns stand out to you in your networks. Develop your essay by reflecting on how these relate to the the contents of the play, working with passages that help to higlight examples of the connections you are observing.
+
+* Do you think *Radio Golf* mostly resembles *Gem of the Ocean* in the kinds of relationships we see, or can we see some clear and interesting differences between the two plays by studying them? 
+* Are the most connected nodes in one play similar to the most connected nodes in the other play? 
+* You could choose to concentrate on characters, objects, onstage or offstage locations. 
+  * How wide-ranging are the places located in one play? How do they compare with the other? 
+  * How about the quantity and kinds of symbolic objects shared between the characters to bring out a point? Are they similar between the two plays, or is one strikingly different from the other in some way? 
+* You might concentrate on relationships between characters that highlight tension and conflict, and whether these are associated with objects of certain kinds. (What kinds of objects are you seeing in high-tension relationships?)
+
+Choose to concentrate this in any way that seems interesting, and write your essay to guide me through your graph to show me what I need to notice. Use your graphs to direct us back to passages of interest in each play (which you should quote or describe in detail with your book open and cite by page). These passages should help to highlight something important about the social network in each play, or your comparison/contrast of the two plays. Take your paper beyond the graphs you've created to help you discuss the contents of the plays. 
 
 Write a heading to your paper on the top left corner of page 1, but not appearing on later pages, giving the following information:
 
