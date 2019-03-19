@@ -51,7 +51,7 @@ When you are happy with your data and your visualizations, think about what aspe
 * Do you think *Radio Golf* mostly resembles *Gem of the Ocean* in the kinds of relationships we see, or can we see some clear and interesting differences between the two plays by studying them? 
 * Are the most connected nodes in one play similar to the most connected nodes in the other play? 
 * You could choose to concentrate on characters, objects, onstage or offstage locations. 
-  * How wide-ranging are the places located in one play? How do they compare with the other? 
+  * How wide-ranging are the places located in one play? How do they compare with the other play? 
   * How about the quantity and kinds of symbolic objects shared between the characters to bring out a point? Are they similar between the two plays, or is one strikingly different from the other in some way? 
 * You might concentrate on relationships between characters that highlight tension and conflict, and whether these are associated with objects of certain kinds. (What kinds of objects are you seeing in high-tension relationships?)
 
