@@ -22,10 +22,17 @@ The assignment involves us writing online annotations as a class group on [the P
 
 ### The Annotation Assignment
 As you read, write annotations in hypothes.is to:
-* comment on irony
-* unfamiliar words--look up and define
-* provide links out to images and media that relate to an interesting passage
-* raise questions and respond to each other’s annotations.
+* Comment on irony: Where do you find it, and what is generating it?
+* Explain unfamiliar words. 
+    * Since we are reading a play in British English, look up words first in the Oxford English Dictionary (via the Pitt Digital Library Database login with your Pitt id and password). Choose what strikes you as the best-fitting definition for word, and explain how this word fits into the context of the larger phrase around it: Why does this word fit here?  
+* Identify unfamiliar contexts: Link to informative web references to historical events, proper names, organizations mentioned in the play, and provide a clear and to-the-point explanation of what significance they have, to help us understand a passage in the play. 
+* Embed relevant images and multimedia from the web in your annotations to help us visualize something more clearly. 
+* Raise questions and respond to each other’s annotations.
+Your writing for this assignment is entirely in the annotations you are drafting, so think of these as a series of short explanatory and conversational pieces tuned to specific passages of the play. I will be evaluating your annotations for:
+* accuracy in representing definitions and context
+* accuracy and relevance in commentary on the play
+* clear writing and helpfulness of your annotations in adding to the discussion surrounding this play. 
+
 
 
 
