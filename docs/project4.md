@@ -19,7 +19,12 @@ The assignment involves us writing online annotations as a class group on [the P
 5. At the top of the hypothes.is screen, you want to change the share setting from “Public” to our class group, “socLit_2019”. This allows us to see each other’s annotations and communicate as a group. 
 
 ### The Annotation Assignment
-Under development...
+As you read, write annotations in hypothes.is to:
+* comment on irony
+* unfamiliar words--look up and define
+* provide links out to images and media that relate to an interesting passage
+* raise questions and respond to each other’s annotations.
+
 
 
 
