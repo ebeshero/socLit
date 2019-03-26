@@ -1,6 +1,6 @@
 ## Digital Project 4: Annotate *Major Barbara*
 
-<img src="barbaraDialogue.jpg" alt="Major Barbara in conversation with Bill Walker and Andrew Undershaft" width="80px"/>
+<img src="barbaraDialogue.jpg" alt="Major Barbara in conversation with Bill Walker and Andrew Undershaft" width="50"/>
 *Image source: 1941 movie production starring Wendy Hiller and Rex Harrison, General Film Distributors. The movie, filmed during the Blitz of London, was based closely on G. B. Shaw’s play, which was first staged in 1905.*
 
 When it first premiered in London in 1905, *Major Barbara* was called a “discussion in three acts” on the play bill (which you can see below).
