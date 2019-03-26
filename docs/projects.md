@@ -11,3 +11,5 @@ Class assignments each involve working with digital tools to visualize patterns 
 
 * [Digital Project 3: Network and concept maps of August Wilson’s plays](project3.md)
 
+* [Digital Project 4: Annotate *Major Barbara*](project4.md) 
+
