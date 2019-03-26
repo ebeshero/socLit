@@ -9,7 +9,7 @@ Calling it a “discussion” spoke to G. B. Shaw’s approach to plays as provo
 The assignment involves us writing online annotations as a class group on [the Project Gutenberg HTML edition of *Major Barbara*](https://www.gutenberg.org/files/3790/3790-h/3790-h.htm). We will work with the free online annotation software, [Hypothes.is](https://web.hypothes.is/), which will involve some quick initial configuration, which we will do together in class.
 
 ### Hypothes.is Annotation 
-1. Start by setting up a free account here: https://web.hypothes.is/start/
+1. Start by setting up a free account here: <https://web.hypothes.is/start/>
 
 2. With your new account configured, join our private class annotation group here by following this link:  <https://hypothes.is/groups/vD73ga7G/soclit-2019>
 3. Set up hypothes.is to run in your preferred browser, [following the instructions](https://web.hypothes.is/start/). There is an extension in Google Chrome, or a “bookmarklet” for other browsers.
