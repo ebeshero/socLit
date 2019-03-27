@@ -25,7 +25,8 @@ As you read, write annotations in hypothes.is to:
 * Identify unfamiliar contexts: Link to informative web references to historical events, proper names, organizations mentioned in the play, and provide a clear and to-the-point explanation of what significance they have, to help us understand a passage in the play. 
 * Embed relevant images and multimedia from the web in your annotations to help us visualize something more clearly. 
 * Raise questions and respond to each other’s annotations.
-Your writing for this assignment is entirely in the annotations you are drafting, so think of these as a series of short explanatory and conversational pieces tuned to specific passages of the play. I will be evaluating your annotations for:
+
+Write at least 5 annotations for each of the three acts of *Major Barbara* for a total of at least 15 - 18 (and you may write more if you wish). Your writing for this assignment is entirely in the annotations you are drafting, so think of these as a series of short explanatory and conversational pieces tuned to specific passages of the play. I will be evaluating your annotations for:
 * accuracy in representing definitions and context
 * accuracy and relevance in commentary on the play
 * clear writing and helpfulness of your annotations in adding to the discussion surrounding this play. 
