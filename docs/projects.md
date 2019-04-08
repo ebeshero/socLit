@@ -13,3 +13,4 @@ Class assignments each involve working with digital tools to visualize patterns 
 
 * [Digital Project 4: Annotate *Major Barbara*](project4.md) 
 
+* [Analog Project 5: Graphic Analysis of *Maus*](project5.md)
