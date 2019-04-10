@@ -1,4 +1,5 @@
 ## Analog Project 5: Graphic Analysis of *Maus*
+### with Extra Credit Digital Option
 
 <img src="Maus1_p125panel5.png" alt="Maus I page 125 panel 5: scene with Vladek and Anja walking to Sosnowiek" id="mbpb"/>
 
@@ -14,4 +15,25 @@ This assignment involves identifying a pattern in the way *Maus* layers or juxta
 
 Develop a 4 to 5 page (double-spaced) essay that works closely with a representative selection of chapters, pages, and panels in Maus I and II that help you to explore its ironic dimensions and juxtapositioning of time. Refer to panels specifically by counting them in the sequence with which you read them. So, for example, the panel illustrated at the top of this assignment page from *Maus* Book I page 125 panel 5, should be cited like this (*Maus I*: 125, panel 5).
 
-Upload your paper on the Assignments tab in [Courseweb](https://courseweb.pitt.edu) by the due date, Thursday 4/18 by 11:59pm.
+Upload your paper on the Assignments tab in [Courseweb](https://courseweb.pitt.edu) by the due date, Monday 4/22 by 11:59pm.
+
+### Extra Credit Digital Option: 
+Add a digital component to this project by creating a TimeMapper for Maus I and II. Provide links on your essay for Project 5, pointing to your Google Sheet and your TimeMapper, as you did for Digital Project 1. *If this Digital Project is an improvement on an earlier digital project*, your score on this will replace your lowest digital project score. If it is not an improvement, it will not be counted. 
+
+For full credit, your TimeMapper must accurately and thoughtfully plot 10 events from *Maus I* and 10 events from or related to *Maus II*. Your TimeMapper entries should provide additional context on specific events in the books, or on relevant events connected to the book (you may include 2 or 3 of these as part of your 10 entries per book). The entries should provide links and images or multimedia to be available as a contextual resource to accompany *Maus*. 
+
+#### Details
+* If pursuing this option, create a Google Sheet (following your method in Digital Project 1), and share edit access with me (ebbondar at gmail.com) if you want me to be able to help debug problems with your sheet. 
+* For TimeMapper to read from you sheet, you will need to do the following: 
+  * Publish your Google Sheet to the web, with File -> Publish to web
+  * Click the green Share button on the top right of the screen, and share with “Anyone with the link”
+* Visualize it using [TimeMapper](http://timemapper.okfnlabs.org/) following the template intructions there. Copy the link to your published TimeMapper to include on your essay for Analog Project 5.
+* Write a heading to your paper on the top left corner of page 1, but not appearing on later pages, giving the following information:
+  * Your Name
+  * This class: Englit 0066
+  * Your TimeMapper Link:
+  * Your Google Sheets Link:
+  * Date of Submission
+
+
+
