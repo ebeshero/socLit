@@ -13,6 +13,6 @@ Over the course of this exam, to receive full credit you must write about all th
 
 1. How have our readings represented exaggerated *caricatures* or *types* of characters in order to make a point about a serious issue? Consider how the caricature is represented (literally drawn in *Maus* and represented for the stage in *Major Barbara* or *Radio Golf*). What defining characteristics need to be drawn or represented to make the character recognizable as a type, as well as an individual? Finally, notice moments when characters really do not fit the type that is supposed to define them? How is this shown and why is it important in the text? 
 
-1. What expectations do characters have that clearly separate them into distinct social classes in the way they behave and their expectations of life? Do characters perceive themselves to be oppressed by members of a leading Choose specific passages from two of our readings that highlight social class distinctions, and consider what is being conveyed about social class values in each. Do characters change their views of themselves and their class in the course of the narrative? 
+1. What expectations do characters have that clearly separate them into distinct social classes in the way they behave and their expectations of life? Choose specific passages from two of our readings that emphasize social class distinctions, and consider what is being conveyed about social class values in each. Do characters change their views of themselves and their class in the course of the narrative? 
  
 
